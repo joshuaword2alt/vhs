@@ -15,7 +15,7 @@
 [<img alt="YT Demo" src="https://i.imgur.com/Xy5Cex9.png" height="140">](https://youtu.be/vjvISSdGYv0)
 [<img alt="YT Demo" src="https://i.imgur.com/i5FxlYU.jpg" height="140">](https://youtu.be/ctMSn--04Sk)
 
-[NSTC Presets] (https://github.com/MasterNama17083/My-NTSCQT-VHS-Preset-Templates) not mine
+[NSTC Presets](https://github.com/MasterNama17083/My-NTSCQT-VHS-Preset-Templates) not mine
 
 #### For windows:
 [<img src="https://phonelumi.com/wp-content/uploads/2017/02/button-dl.svg" height="50">](https://github.com/JargeZ/ntsc/releases/latest/download/ntscQT.exe)
