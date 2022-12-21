@@ -18,6 +18,7 @@
 [NSTC Presets](https://github.com/MasterNama17083/My-NTSCQT-VHS-Preset-Templates) not mine
 [VHS Static](https://archive.org/details/vhs-static-43-seconds-d.-d.-teoli-jr.-a.-c.)
 [VHS Static 2](https://youtu.be/tbnECdx2BdI)
+[not in this one](https://github.com/joshuaword2alt/sam)
 
 #### For windows:
 [<img src="https://phonelumi.com/wp-content/uploads/2017/02/button-dl.svg" height="50">](https://github.com/JargeZ/ntsc/releases/latest/download/ntscQT.exe)
